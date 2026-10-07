@@ -1,0 +1,8 @@
+{
+  "name": "Remix TN College Events Hub",
+  "description": "A comprehensive Java-based platform for discovering, managing, and registering for diverse college events across Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
